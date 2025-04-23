@@ -1,5 +1,5 @@
 # dijkstras-algorithm
-Python program that uses Dijkstra's Algorithm on a sample graph, covering four cases/conditions. There are no other contributors nor current maintaining of the program. Instructions and sample graph are below: 
+Python program that uses Dijkstra's Algorithm on a sample graph, covering four cases/conditions. There are no other contributors nor current maintaining of the program. Instructions and sample graph are below. A sample code to test the program is attached. 
 
 Also note that you need to cover at least the following 4 cases (sample example: slide 17) 
 - Node(C) with Weight:2 is added to the 'Visited' {'A', 'B', 'C'}
